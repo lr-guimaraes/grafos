@@ -1,6 +1,6 @@
 '''Leandro Ricardo Guimarães
     Gabrielle Batista
-    Javier '''
+    Javier Agustin'''
 
 from random import randint
 
